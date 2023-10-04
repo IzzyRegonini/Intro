@@ -1,0 +1,19 @@
+body{
+background-color: lightsalmon;
+}
+h1{
+  color: indianred;
+  margin-left: 50px;
+}
+h2{
+  color: tomato;
+}
+p{
+color: peru;
+font-family:Helvetica;
+  margin-left: 10px;
+  margin-top: 15%;
+}
+canvas {
+  display: block;
+}
